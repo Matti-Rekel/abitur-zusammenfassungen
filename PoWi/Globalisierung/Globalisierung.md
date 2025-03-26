@@ -76,7 +76,7 @@ Die ökonomische Globalisierung kann einerseits als Chance für eine stärkere W
 
 #### Entwicklung des gesamten Handels
 
-- der globale BIP steigt seid langem
+- das globale BIP steigt seit langem
 - die Exporte sind besonders seid 2000 stark gestiegen
 - Exporte schwanken stärker als der BIP
 - Handel stärker als globales BIP
